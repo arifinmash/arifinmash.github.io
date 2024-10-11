@@ -2,13 +2,16 @@
 
 ### Education
 Computing PhD - Cybersecurity
+MS in Computer Science
+BS in Electronics and Communication Engineering
 
 ### Work Experience
-Deputy Team Lead - Network Security
-- big impact project 1
-- big impact project 2 
+Graduate Teaching Assistant
+Graduate Research Assistant
+Deputy Team Lead - Technology
+ 
 
-### Projects
+### Professional Projects
 1. Bangladesh Development Bank Limited (DC and DR)
 Technologies Deployed:
 FortiSIEM
@@ -22,8 +25,31 @@ Description: Deployed a total of ten cybersecurity products across different net
 Period: April 2021 - July 2021
 
 ### Certifications
+1. Fortinet Network Security Expert 5(NSE5), 
+2. Trend Micro Deep security Professional,
+3. McAfee Certified Professional for SIEM, IPS and Web Gateway, 
+4. Barracuda Certi-fied Professional for Email Security gateway and Email Achiever, 
+5. RSA Certified on SIEM and Multi Factor Authentication, 
+6. MasterSAM Silver lake certified Professional for PAM,
 
 ### Publications
+
+### Skills
+Languages: C, Python, Verilog.
+Networking: CCNA (Cisco Network Academy), Fortinet, Mikrotik
+Applications: Jupyter Notebook, Anaconda.
+Virtual Platform: VMware ESXI-7.0, Microsoft Hyper-V, Oracle Virtual Box
+Unified Threat Management: Fortigate Enterprise Model, Sophos XG, Sonicwall
+Intruder Prevention System : Mcafee NSM-2700
+Web Security Gateway: Forti-Proxy, Mcafee Webgateway
+Email Security Gateway : Barracuda, FortiMail.
+Security Information and Event Management: Mcafee ESM-5600, FortiSIEM, RSA Netwitness.
+Vulnerability Assessment and Penetration Test: Rapid 7 Nexpose, Rapid 7 Metaexploit pro.
+Privilege Access Management: Silverlake MasterSAM (Stargate, PMS and Analyst).
+Multi Factor Authentication: Forti Token, RSA SecureID
+Server Security: Trend Micro Deep Security, Mcafee File Integrity Monitoring
+DNS Security: Efficient IP Solidsever DDI-550
+Operating Systems: Linux, FortiOS 6.4.0, Windows Server 2019, CentOS7
 
 ### Training
 1. American International University of Bangladesh, Dhaka, Bangladesh
