@@ -1,4 +1,4 @@
-# arifinmash.github.io
+# Researcher | Cybersecurity Enthusiast| Adversarial AI 
 
 ### Education
 Computing PhD - Cybersecurity
