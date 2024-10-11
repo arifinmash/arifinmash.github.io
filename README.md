@@ -1,4 +1,4 @@
-# Researcher | Cybersecurity Enthusiast| Adversarial AI 
+# Adversarial AI Researcher | Cybersecurity Enthusiast|  
 
 ### Education
 Computing PhD - Cybersecurity
