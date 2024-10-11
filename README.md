@@ -1,14 +1,14 @@
 # Adversarial AI Researcher | Cybersecurity Enthusiast|  
 
 ### Education
-Computing PhD - Cybersecurity
-MS in Computer Science
-BS in Electronics and Communication Engineering
+- Computing PhD - Cybersecurity
+- MS in Computer Science
+- BS in Electronics and Communication Engineering
 
 ### Work Experience
-Graduate Teaching Assistant
-Graduate Research Assistant
-Deputy Team Lead - Technology
+- Graduate Teaching Assistant
+- Graduate Research Assistant
+- Deputy Team Lead - Technology
  
 
 ### Professional Projects
