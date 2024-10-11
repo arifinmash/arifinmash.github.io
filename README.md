@@ -35,21 +35,21 @@ Period: April 2021 - July 2021
 ### Publications
 
 ### Skills
-Languages: C, Python, Verilog.
-Networking: CCNA (Cisco Network Academy), Fortinet, Mikrotik
-Applications: Jupyter Notebook, Anaconda.
-Virtual Platform: VMware ESXI-7.0, Microsoft Hyper-V, Oracle Virtual Box
-Unified Threat Management: Fortigate Enterprise Model, Sophos XG, Sonicwall
-Intruder Prevention System : Mcafee NSM-2700
-Web Security Gateway: Forti-Proxy, Mcafee Webgateway
-Email Security Gateway : Barracuda, FortiMail.
-Security Information and Event Management: Mcafee ESM-5600, FortiSIEM, RSA Netwitness.
-Vulnerability Assessment and Penetration Test: Rapid 7 Nexpose, Rapid 7 Metaexploit pro.
-Privilege Access Management: Silverlake MasterSAM (Stargate, PMS and Analyst).
-Multi Factor Authentication: Forti Token, RSA SecureID
-Server Security: Trend Micro Deep Security, Mcafee File Integrity Monitoring
-DNS Security: Efficient IP Solidsever DDI-550
-Operating Systems: Linux, FortiOS 6.4.0, Windows Server 2019, CentOS7
+- Languages: C, Python, Verilog.
+- Networking: CCNA (Cisco Network Academy), Fortinet, Mikrotik
+- Applications: Jupyter Notebook, Anaconda.
+- Virtual Platform: VMware ESXI-7.0, Microsoft Hyper-V, Oracle Virtual Box
+- Unified Threat Management: Fortigate Enterprise Model, Sophos XG, Sonicwall
+- Intruder Prevention System : Mcafee NSM-2700
+- Web Security Gateway: Forti-Proxy, Mcafee Webgateway
+- Email Security Gateway : Barracuda, FortiMail.
+- Security Information and Event Management: Mcafee ESM-5600, FortiSIEM, RSA Netwitness.
+- Vulnerability Assessment and Penetration Test: Rapid 7 Nexpose, Rapid 7 Metaexploit pro.
+- Privilege Access Management: Silverlake MasterSAM (Stargate, PMS and Analyst).
+- Multi Factor Authentication: Forti Token, RSA SecureID
+- Server Security: Trend Micro Deep Security, Mcafee File Integrity Monitoring
+- DNS Security: Efficient IP Solidsever DDI-550
+- Operating Systems: Linux, FortiOS 6.4.0, Windows Server 2019, CentOS7
 
 ### Training
 1. American International University of Bangladesh, Dhaka, Bangladesh
