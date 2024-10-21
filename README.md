@@ -2,8 +2,11 @@
 
 ### Education
 - Computing PhD - Cybersecurity
+  Boise State Univerity
 - MS in Computer Science
+  Dhaka International University
 - BS in Electronics and Communication Engineering
+  Khulna University
 
 ### Work Experience
 - Graduate Teaching Assistant
