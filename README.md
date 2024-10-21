@@ -1,5 +1,4 @@
 # Adversarial AI Researcher | Cybersecurity Enthusiast|  
-![Your Alt Text](13909334_10208670388429625_8629756576080741517_o.jpg)
 
 ### Education
 - Computing PhD - Cybersecurity
