@@ -10,8 +10,8 @@
 - Graduate Research Assistant
 - Deputy Team Lead - Technology
  
-
-### Professional Projects
+### Recent Projects
+### Past Projects
 1. Bangladesh Development Bank Limited (DC and DR)
 Technologies Deployed:
 FortiSIEM
@@ -25,12 +25,12 @@ Description: Deployed a total of ten cybersecurity products across different net
 Period: April 2021 - July 2021
 
 ### Certifications
-1. Fortinet Network Security Expert 5(**NSE1**, **NSE2**, **NSE3**, **NSE4**, **NSE5**), 
-2. Trend Micro Deep security Professional,
-3. McAfee Certified Professional for SIEM, IPS and Web Gateway, 
+1. Fortinet Network Security Expert 5(_**NSE1**_, _**NSE2**_, _**NSE3**_, _**NSE4**_, _**NSE5**_), 
+2. Trend Micro _**Deep security Professional**_,
+3. _**McAfee Certified Professional**_ for _**SIEM**_, _**IPS**_ and _**Web Gateway**_, 
 4. Barracuda Certi-fied Professional for Email Security gateway and Email Achiever, 
 5. RSA Certified on SIEM and Multi Factor Authentication, 
-6. MasterSAM Silver lake certified Professional for PAM,
+6. MasterSAM Silver lake certified Professional for Previlege Access Management,
 
 ### Publications
 
