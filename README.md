@@ -25,7 +25,7 @@ Description: Deployed a total of ten cybersecurity products across different net
 Period: April 2021 - July 2021
 
 ### Certifications
-1. Fortinet Network Security Expert 5(NSE5), 
+1. Fortinet Network Security Expert 5(**NSE1**, **NSE2**, **NSE3**, **NSE4**, **NSE5**), 
 2. Trend Micro Deep security Professional,
 3. McAfee Certified Professional for SIEM, IPS and Web Gateway, 
 4. Barracuda Certi-fied Professional for Email Security gateway and Email Achiever, 
